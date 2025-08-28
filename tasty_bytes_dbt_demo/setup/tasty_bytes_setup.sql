@@ -184,7 +184,7 @@ CREATE OR REPLACE TABLE tasty_bytes_dbt_db.raw.customer_loyalty
     e_mail VARCHAR(16777216),
     phone_number VARCHAR(16777216)
 )
-COMMENT = '{"origin":"sf_sit-is", "name":"tasty-bytes-dbt", "version":{"major":1, "minor":0}, "attributes":{"is_quickstart":1, "source":"sql"}}';
+COMMENT = '{"origin":"sf_sit-is", "name":"tasty-bytes-dbt", "version":{"major":1, "minor":0}, "attributes":{"is_quickstart":1, "source":"sql"}}';TASTY_BYTES_DBT_DB.RAW
 
 /*--
  raw zone table load 
